@@ -1,2 +1,1 @@
-# ekrt
-system realtime kanal
+Evaluasi Kanal Realtime
