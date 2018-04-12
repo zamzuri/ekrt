@@ -1,0 +1,2 @@
+# ekrt
+system realtime kanal
